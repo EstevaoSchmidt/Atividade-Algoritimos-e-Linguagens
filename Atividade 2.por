@@ -9,11 +9,11 @@ real jupiter = 11.862615
 real urano = 84.016846
 real netuno = 164.79132
 
-		escreva("Vênus leva ", venus / 365, " dias para dar uma volta no sol. \n")
-		escreva("Marte leva ", marte / 365, " dias para dar uma volta no sol. \n")
-		escreva("Júpiter leva ", jupiter / 365, " dias para dar uma volta no sol. \n")
-		escreva("Urano leva ", urano / 365, " dias para dar uma volta no sol. \n")
-		escreva("Netuno leva ", venus / 365, " dias para dar uma volta no sol. \n")
+		escreva("Vênus leva ", venus * 365, " dias para dar uma volta no sol. \n")
+		escreva("Marte leva ", marte * 365, " dias para dar uma volta no sol. \n")
+		escreva("Júpiter leva ", jupiter * 365, " dias para dar uma volta no sol. \n")
+		escreva("Urano leva ", urano * 365, " dias para dar uma volta no sol. \n")
+		escreva("Netuno leva ", venus * 365, " dias para dar uma volta no sol. \n")
 		
 
 	}
